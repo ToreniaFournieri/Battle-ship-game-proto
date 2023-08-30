@@ -1,0 +1,1156 @@
+
+Turn 1
+Q-learning Player Armor: 10
+Random Player Armor: 10
+- - - - -
+         
+         
+    P    
+      E  
+         
+- - - - -
+
+Q-learning Player's Action: Moved LEFT
+
+Random Player's Action:
+Repaired the ship!
+
+Turn 2
+Q-learning Player Armor: 9
+Random Player Armor: 9
+- - - - -
+         
+         
+  S      
+      E  
+         
+- - - - -
+
+Q-learning Player's Action: Moved UP
+
+Random Player's Action:
+Repaired the ship!
+
+Turn 3
+Q-learning Player Armor: 10
+Random Player Armor: 9
+- - - - -
+         
+  S      
+         
+      E  
+         
+- - - - -
+
+Q-learning Player's Action: Shot LEFT
+
+Random Player's Action:
+Moved LEFT
+
+Turn 4
+Q-learning Player Armor: 10
+Random Player Armor: 9
+- - - - -
+         
+  S      
+         
+    S    
+         
+- - - - -
+
+Q-learning Player's Action: Moved UP
+
+Random Player's Action:
+Shot DOWN and missed.
+
+Turn 5
+Q-learning Player Armor: 10
+Random Player Armor: 9
+- - - - -
+  S      
+         
+         
+    S    
+         
+- - - - -
+
+Q-learning Player's Action: Shot LEFT
+
+Random Player's Action:
+Shot LEFT and missed.
+
+Turn 6
+Q-learning Player Armor: 10
+Random Player Armor: 9
+- - - - -
+  S      
+         
+         
+    S    
+         
+- - - - -
+
+Q-learning Player's Action: Repaired the ship
+
+Random Player's Action:
+Shot DOWN and missed.
+
+Turn 7
+Q-learning Player Armor: 9
+Random Player Armor: 8
+- - - - -
+  S      
+         
+         
+    S    
+         
+- - - - -
+
+Q-learning Player's Action: Moved LEFT
+
+Random Player's Action:
+Shot LEFT and missed.
+
+Turn 8
+Q-learning Player Armor: 9
+Random Player Armor: 8
+- - - - -
+S        
+         
+         
+    S    
+         
+- - - - -
+
+Q-learning Player's Action: Moved RIGHT
+
+Random Player's Action:
+Moved LEFT
+
+Turn 9
+Q-learning Player Armor: 9
+Random Player Armor: 8
+- - - - -
+  S      
+         
+         
+  S      
+         
+- - - - -
+
+Q-learning Player's Action: Moved DOWN
+
+Random Player's Action:
+Shot RIGHT and missed.
+
+Turn 10
+Q-learning Player Armor: 9
+Random Player Armor: 8
+- - - - -
+         
+  S      
+         
+  S      
+         
+- - - - -
+
+Q-learning Player's Action: Shot DOWN
+
+Random Player's Action:
+Repaired the ship!
+
+Turn 11
+Q-learning Player Armor: 10
+Random Player Armor: 6
+- - - - -
+         
+  S      
+         
+  S      
+         
+- - - - -
+
+Q-learning Player's Action: Moved LEFT
+
+Random Player's Action:
+Shot UP and missed.
+
+Turn 12
+Q-learning Player Armor: 9
+Random Player Armor: 5
+- - - - -
+         
+S        
+         
+  S      
+         
+- - - - -
+
+Q-learning Player's Action: Moved LEFT
+
+Random Player's Action:
+Repaired the ship!
+
+Turn 13
+Q-learning Player Armor: 10
+Random Player Armor: 5
+- - - - -
+         
+S        
+         
+  S      
+         
+- - - - -
+
+Q-learning Player's Action: Shot LEFT
+
+Random Player's Action:
+Repaired the ship!
+
+Turn 14
+Q-learning Player Armor: 10
+Random Player Armor: 5
+- - - - -
+         
+S        
+         
+  S      
+         
+- - - - -
+
+Q-learning Player's Action: Moved RIGHT
+
+Random Player's Action:
+Moved RIGHT
+
+Turn 15
+Q-learning Player Armor: 10
+Random Player Armor: 5
+- - - - -
+         
+  S      
+         
+    S    
+         
+- - - - -
+
+Q-learning Player's Action: Moved DOWN
+
+Random Player's Action:
+Moved LEFT
+
+Turn 16
+Q-learning Player Armor: 10
+Random Player Armor: 5
+- - - - -
+         
+         
+  S      
+  S      
+         
+- - - - -
+
+Q-learning Player's Action: Moved LEFT
+
+Random Player's Action:
+Repaired the ship!
+
+Turn 17
+Q-learning Player Armor: 9
+Random Player Armor: 4
+- - - - -
+         
+         
+S        
+  S      
+         
+- - - - -
+
+Q-learning Player's Action: Shot DOWN
+
+Random Player's Action:
+Repaired the ship!
+
+Turn 18
+Q-learning Player Armor: 10
+Random Player Armor: 4
+- - - - -
+         
+         
+S        
+  S      
+         
+- - - - -
+
+Q-learning Player's Action: Shot LEFT
+
+Random Player's Action:
+Repaired the ship!
+
+Turn 19
+Q-learning Player Armor: 10
+Random Player Armor: 4
+- - - - -
+         
+         
+S        
+  S      
+         
+- - - - -
+
+Q-learning Player's Action: Shot LEFT
+
+Random Player's Action:
+Moved UP
+
+Turn 20
+Q-learning Player Armor: 10
+Random Player Armor: 4
+- - - - -
+         
+         
+S S      
+         
+         
+- - - - -
+
+Q-learning Player's Action: Moved LEFT
+
+Random Player's Action:
+Repaired the ship!
+
+Turn 21
+Q-learning Player Armor: 10
+Random Player Armor: 4
+- - - - -
+         
+         
+S S      
+         
+         
+- - - - -
+
+Q-learning Player's Action: Shot LEFT
+
+Random Player's Action:
+Shot DOWN and missed.
+
+Turn 22
+Q-learning Player Armor: 9
+Random Player Armor: 3
+- - - - -
+         
+         
+S S      
+         
+         
+- - - - -
+
+Q-learning Player's Action: Shot RIGHT
+
+Random Player's Action:
+Repaired the ship!
+
+Turn 23
+Q-learning Player Armor: 10
+Random Player Armor: 3
+- - - - -
+         
+         
+S S      
+         
+         
+- - - - -
+
+Q-learning Player's Action: Moved LEFT
+
+Random Player's Action:
+Moved DOWN
+
+Turn 24
+Q-learning Player Armor: 10
+Random Player Armor: 3
+- - - - -
+         
+         
+S        
+  S      
+         
+- - - - -
+
+Q-learning Player's Action: Moved RIGHT
+
+Random Player's Action:
+Moved UP
+
+Turn 25
+Q-learning Player Armor: 10
+Random Player Armor: 3
+- - - - -
+         
+         
+  S      
+  S      
+         
+- - - - -
+
+Q-learning Player's Action: Moved RIGHT
+
+Random Player's Action:
+Moved UP
+
+Turn 26
+Q-learning Player Armor: 10
+Random Player Armor: 3
+- - - - -
+         
+         
+  S S    
+         
+         
+- - - - -
+
+Q-learning Player's Action: Moved UP
+
+Random Player's Action:
+Repaired the ship!
+
+Turn 27
+Q-learning Player Armor: 9
+Random Player Armor: 2
+- - - - -
+         
+    S    
+  S      
+         
+         
+- - - - -
+
+Q-learning Player's Action: Shot RIGHT
+
+Random Player's Action:
+Moved LEFT
+
+Turn 28
+Q-learning Player Armor: 9
+Random Player Armor: 2
+- - - - -
+         
+    S    
+S        
+         
+         
+- - - - -
+
+Q-learning Player's Action: Moved LEFT
+
+Random Player's Action:
+Moved UP
+
+Turn 29
+Q-learning Player Armor: 9
+Random Player Armor: 2
+- - - - -
+         
+S S      
+         
+         
+         
+- - - - -
+
+Q-learning Player's Action: Shot DOWN
+
+Random Player's Action:
+Repaired the ship!
+
+Turn 30
+Q-learning Player Armor: 10
+Random Player Armor: 2
+- - - - -
+         
+S S      
+         
+         
+         
+- - - - -
+
+Q-learning Player's Action: Moved LEFT
+
+Random Player's Action:
+Moved DOWN
+
+Turn 31
+Q-learning Player Armor: 10
+Random Player Armor: 2
+- - - - -
+         
+  S      
+S        
+         
+         
+- - - - -
+
+Q-learning Player's Action: Shot LEFT
+
+Random Player's Action:
+Repaired the ship!
+
+Turn 32
+Q-learning Player Armor: 9
+Random Player Armor: 1
+- - - - -
+         
+  S      
+S        
+         
+         
+- - - - -
+
+Q-learning Player's Action: Moved UP
+
+Random Player's Action:
+Repaired the ship!
+
+Turn 33
+Q-learning Player Armor: 10
+Random Player Armor: 1
+- - - - -
+  S      
+         
+S        
+         
+         
+- - - - -
+
+Q-learning Player's Action: Shot UP
+
+Random Player's Action:
+Shot UP and missed.
+
+Turn 34
+Q-learning Player Armor: 10
+Random Player Armor: 1
+- - - - -
+  S      
+         
+S        
+         
+         
+- - - - -
+
+Q-learning Player's Action: Shot LEFT
+
+Random Player's Action:
+Repaired the ship!
+
+Turn 35
+Q-learning Player Armor: 10
+Random Player Armor: 1
+- - - - -
+  S      
+         
+S        
+         
+         
+- - - - -
+
+Q-learning Player's Action: Moved LEFT
+
+Random Player's Action:
+Shot DOWN and missed.
+
+Turn 36
+Q-learning Player Armor: 10
+Random Player Armor: 1
+- - - - -
+S        
+         
+S        
+         
+         
+- - - - -
+
+Q-learning Player's Action: Shot LEFT
+
+Random Player's Action:
+Shot LEFT and missed.
+
+Game ended in a draw!
+
+Turn 1
+Q-learning Player Armor: 10
+Random Player Armor: 10
+- - - - -
+         
+        E
+        P
+         
+         
+- - - - -
+
+Q-learning Player's Action: Moved RIGHT
+
+Random Player's Action:
+Repaired the ship!
+
+Turn 2
+Q-learning Player Armor: 9
+Random Player Armor: 9
+- - - - -
+         
+        E
+        S
+         
+         
+- - - - -
+
+Q-learning Player's Action: Shot RIGHT
+
+Random Player's Action:
+Moved DOWN
+
+Turn 3
+Q-learning Player Armor: 9
+Random Player Armor: 9
+- - - - -
+         
+        S
+        S
+         
+         
+- - - - -
+
+Q-learning Player's Action: Repaired the ship
+
+Random Player's Action:
+Moved RIGHT
+
+Turn 4
+Q-learning Player Armor: 10
+Random Player Armor: 9
+- - - - -
+         
+        S
+        S
+         
+         
+- - - - -
+
+Q-learning Player's Action: Moved DOWN
+
+Random Player's Action:
+Repaired the ship!
+
+Turn 5
+Q-learning Player Armor: 10
+Random Player Armor: 9
+- - - - -
+         
+        S
+         
+        S
+         
+- - - - -
+
+Q-learning Player's Action: Moved RIGHT
+
+Random Player's Action:
+Moved LEFT
+
+Turn 6
+Q-learning Player Armor: 10
+Random Player Armor: 9
+- - - - -
+         
+      S  
+         
+        S
+         
+- - - - -
+
+Q-learning Player's Action: Moved LEFT
+
+Random Player's Action:
+Repaired the ship!
+
+Turn 7
+Q-learning Player Armor: 9
+Random Player Armor: 8
+- - - - -
+         
+      S  
+         
+      S  
+         
+- - - - -
+
+Q-learning Player's Action: Shot UP
+
+Random Player's Action:
+Shot DOWN and hit!
+
+Turn 8
+Q-learning Player Armor: 7
+Random Player Armor: 6
+- - - - -
+         
+      S  
+         
+      S  
+         
+- - - - -
+
+Q-learning Player's Action: Moved DOWN
+
+Random Player's Action:
+Repaired the ship!
+
+Turn 9
+Q-learning Player Armor: 8
+Random Player Armor: 6
+- - - - -
+         
+      S  
+         
+         
+      S  
+- - - - -
+
+Q-learning Player's Action: Repaired the ship
+
+Random Player's Action:
+Shot LEFT and missed.
+
+Turn 10
+Q-learning Player Armor: 9
+Random Player Armor: 6
+- - - - -
+         
+      S  
+         
+         
+      S  
+- - - - -
+
+Q-learning Player's Action: Moved DOWN
+
+Random Player's Action:
+Repaired the ship!
+
+Turn 11
+Q-learning Player Armor: 10
+Random Player Armor: 6
+- - - - -
+         
+      S  
+         
+         
+      S  
+- - - - -
+
+Q-learning Player's Action: Shot UP
+
+Random Player's Action:
+Shot LEFT and missed.
+
+Turn 12
+Q-learning Player Armor: 9
+Random Player Armor: 5
+- - - - -
+         
+      S  
+         
+         
+      S  
+- - - - -
+
+Q-learning Player's Action: Shot UP
+
+Random Player's Action:
+Repaired the ship!
+
+Turn 13
+Q-learning Player Armor: 10
+Random Player Armor: 5
+- - - - -
+         
+      S  
+         
+         
+      S  
+- - - - -
+
+Q-learning Player's Action: Moved LEFT
+
+Random Player's Action:
+Shot DOWN and missed.
+
+Turn 14
+Q-learning Player Armor: 10
+Random Player Armor: 5
+- - - - -
+         
+      S  
+         
+         
+    S    
+- - - - -
+
+Q-learning Player's Action: Moved RIGHT
+
+Random Player's Action:
+Repaired the ship!
+
+Turn 15
+Q-learning Player Armor: 10
+Random Player Armor: 5
+- - - - -
+         
+      S  
+         
+         
+      S  
+- - - - -
+
+Q-learning Player's Action: Moved UP
+
+Random Player's Action:
+Repaired the ship!
+
+Turn 16
+Q-learning Player Armor: 10
+Random Player Armor: 5
+- - - - -
+         
+      S  
+         
+      S  
+         
+- - - - -
+
+Q-learning Player's Action: Moved RIGHT
+
+Random Player's Action:
+Shot UP and missed.
+
+Turn 17
+Q-learning Player Armor: 9
+Random Player Armor: 4
+- - - - -
+         
+      S  
+         
+        S
+         
+- - - - -
+
+Q-learning Player's Action: Moved UP
+
+Random Player's Action:
+Repaired the ship!
+
+Turn 18
+Q-learning Player Armor: 10
+Random Player Armor: 4
+- - - - -
+         
+      S  
+        S
+         
+         
+- - - - -
+
+Q-learning Player's Action: Shot UP
+
+Random Player's Action:
+Shot RIGHT and missed.
+
+Turn 19
+Q-learning Player Armor: 10
+Random Player Armor: 4
+- - - - -
+         
+      S  
+        S
+         
+         
+- - - - -
+
+Q-learning Player's Action: Moved DOWN
+
+Random Player's Action:
+Repaired the ship!
+
+Turn 20
+Q-learning Player Armor: 10
+Random Player Armor: 4
+- - - - -
+         
+      S  
+         
+        S
+         
+- - - - -
+
+Q-learning Player's Action: Moved RIGHT
+
+Random Player's Action:
+Moved RIGHT
+
+Turn 21
+Q-learning Player Armor: 10
+Random Player Armor: 4
+- - - - -
+         
+        S
+         
+        S
+         
+- - - - -
+
+Q-learning Player's Action: Moved LEFT
+
+Random Player's Action:
+Shot DOWN and missed.
+
+Turn 22
+Q-learning Player Armor: 9
+Random Player Armor: 3
+- - - - -
+         
+        S
+         
+      S  
+         
+- - - - -
+
+Q-learning Player's Action: Moved RIGHT
+
+Random Player's Action:
+Moved DOWN
+
+Turn 23
+Q-learning Player Armor: 9
+Random Player Armor: 3
+- - - - -
+         
+         
+        S
+        S
+         
+- - - - -
+
+Q-learning Player's Action: Shot DOWN
+
+Random Player's Action:
+Moved LEFT
+
+Turn 24
+Q-learning Player Armor: 9
+Random Player Armor: 3
+- - - - -
+         
+         
+      S  
+        S
+         
+- - - - -
+
+Q-learning Player's Action: Shot LEFT
+
+Random Player's Action:
+Shot LEFT and missed.
+
+Turn 25
+Q-learning Player Armor: 9
+Random Player Armor: 3
+- - - - -
+         
+         
+      S  
+        S
+         
+- - - - -
+
+Q-learning Player's Action: Repaired the ship
+
+Random Player's Action:
+Repaired the ship!
+
+Turn 26
+Q-learning Player Armor: 10
+Random Player Armor: 3
+- - - - -
+         
+         
+      S  
+        S
+         
+- - - - -
+
+Q-learning Player's Action: Shot UP
+
+Random Player's Action:
+Shot DOWN and missed.
+
+Turn 27
+Q-learning Player Armor: 9
+Random Player Armor: 2
+- - - - -
+         
+         
+      S  
+        S
+         
+- - - - -
+
+Q-learning Player's Action: Moved LEFT
+
+Random Player's Action:
+Shot DOWN and missed.
+
+Turn 28
+Q-learning Player Armor: 9
+Random Player Armor: 2
+- - - - -
+         
+         
+      S  
+      S  
+         
+- - - - -
+
+Q-learning Player's Action: Shot LEFT
+
+Random Player's Action:
+Shot LEFT and missed.
+
+Turn 29
+Q-learning Player Armor: 9
+Random Player Armor: 2
+- - - - -
+         
+         
+      S  
+      S  
+         
+- - - - -
+
+Q-learning Player's Action: Shot RIGHT
+
+Random Player's Action:
+Repaired the ship!
+
+Turn 30
+Q-learning Player Armor: 10
+Random Player Armor: 2
+- - - - -
+         
+         
+      S  
+      S  
+         
+- - - - -
+
+Q-learning Player's Action: Shot RIGHT
+
+Random Player's Action:
+Shot UP and missed.
+
+Turn 31
+Q-learning Player Armor: 10
+Random Player Armor: 2
+- - - - -
+         
+         
+      S  
+      S  
+         
+- - - - -
+
+Q-learning Player's Action: Repaired the ship
+
+Random Player's Action:
+Shot UP and missed.
+
+Turn 32
+Q-learning Player Armor: 9
+Random Player Armor: 1
+- - - - -
+         
+         
+      S  
+      S  
+         
+- - - - -
+
+Q-learning Player's Action: Moved LEFT
+
+Random Player's Action:
+Shot LEFT and missed.
+
+Turn 33
+Q-learning Player Armor: 9
+Random Player Armor: 1
+- - - - -
+         
+         
+      S  
+    S    
+         
+- - - - -
+
+Q-learning Player's Action: Shot DOWN
+
+Random Player's Action:
+Shot UP and missed.
+
+Turn 34
+Q-learning Player Armor: 9
+Random Player Armor: 1
+- - - - -
+         
+         
+      S  
+    S    
+         
+- - - - -
+
+Q-learning Player's Action: Shot UP
+
+Random Player's Action:
+Moved RIGHT
+
+Turn 35
+Q-learning Player Armor: 9
+Random Player Armor: 1
+- - - - -
+         
+         
+        S
+    S    
+         
+- - - - -
+
+Q-learning Player's Action: Shot UP
+
+Random Player's Action:
+Moved RIGHT
+
+Turn 36
+Q-learning Player Armor: 9
+Random Player Armor: 1
+- - - - -
+         
+         
+        S
+    S    
+         
+- - - - -
+
+Q-learning Player's Action: Shot LEFT
+
+Random Player's Action:
+Repaired the ship!
+
+Game ended in a draw!
